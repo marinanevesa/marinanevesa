@@ -2,7 +2,13 @@
 
 ### Graduanda em Sistemas de Informação no Uni-FACEF
 
-Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidade das ciências humanas. Atualmente, foco meus estudos no desenvolvimento de soluções que unam eficiência técnica e uma experiência humana clara.
+Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidade das ciências humanas. Atualmente, busco equilibrar o rigor técnico com uma visão voltada para o impacto social e a experiência do usuário.
+
+---
+
+### 💼 Experiência e Projetos Atuais
+- **Estágio em Desenvolvimento:** Atuo no desenvolvimento de soluções voltadas para o setor público, focando na criação de interfaces inteligentes e funcionais para o **Ministério da Saúde**.
+- **PET-Saúde:** Participo do Programa de Educação pelo Trabalho para a Saúde, onde aplico meus conhecimentos de TI para otimizar processos de informação e comunicação na saúde pública, unindo tecnologia e bem-estar social.
 
 ---
 
@@ -16,8 +22,8 @@ Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidad
 
 ### 📈 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinanevesa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinanevesa&layout=compact&theme=dracula&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinanevesa&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinanevesa&layout=compact&theme=dark&langs_count=6" />
 </p>
 
 ---
