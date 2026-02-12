@@ -13,8 +13,8 @@ Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidad
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📈 Estatísticas
-![Estatísticas da Marina](https://github-readme-stats.vercel.app/api?username=marinanevesa&show_icons=true&theme=dracula)
-
+![Estatísticas de Marina](https://github-readme-stats.vercel.app/api?username=marinanevesa&show_icons=true&theme=dark&hide_border=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=marinanevesa&layout=compact&theme=dark&hide_border=true)
 ---
 
 ### 📫 Vamos nos conectar?
