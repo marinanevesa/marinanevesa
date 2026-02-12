@@ -29,7 +29,6 @@ Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidad
 
 ---
 
-### 🐍 Snake Game (Minhas contribuições)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
