@@ -1,4 +1,8 @@
-# Olá, eu sou a Marina Neves! 👋 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Marina%20Neves&fontSize=70&animation=fadeIn" />
+</p>
+
+### Olá! 👋 
 
 ### Graduanda em Sistemas de Informação no Uni-FACEF
 
@@ -8,7 +12,7 @@ Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidad
 
 ### 💼 Experiência e Projetos Atuais
 - **Estágio em TI (Uni-FACEF):** Atuo no Setor de Informática do Centro Universitário Municipal de Franca, auxiliando em demandas técnicas e no suporte a sistemas internos da instituição.
-- **PET-Saúde:** Participo do Programa de Educação pelo Trabalho para a Saúde, onde aplico meus conhecimentos de TI para otimizar processos de informação e comunicação na saúde pública, unindo tecnologia e bem-estar social.
+- **PET-Saúde:** Participo do Programa de Educação pelo Trabalho para a Saúde, onde aplico meus conhecimentos de TI para otimizar processos de informação e comunicação na saúde pública.
 
 ---
 
@@ -18,12 +22,12 @@ Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidad
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Logic](https://img.shields.io/badge/Lógica_Portugol-gray?style=for-the-badge&logo=codeforces&logoColor=white)
 
-### 📈 Estatísticas do GitHub
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinanevesa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinanevesa&layout=compact&theme=dark&langs_count=6&cache_seconds=1800" />
+---
+
+### 🐍 Snake Game (Minhas contribuições)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marinanevesa/marinanevesa/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
 
 ---
