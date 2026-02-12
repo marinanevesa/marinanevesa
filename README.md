@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Marina%20Neves&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8b004b&height=200&section=header&text=Marina%20Neves&fontSize=70&animation=fadeIn" />
 </p>
 
 ### Olá! 👋 
@@ -27,7 +27,7 @@ Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidad
 
 ### 🐍 Snake Game (Minhas contribuições)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marinanevesa/marinanevesa/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
