@@ -6,7 +6,7 @@
 
 ### Graduanda em Sistemas de Informação no Uni-FACEF
 
-Sou apaixonada pela intersecção entre a lógica da tecnologia e a sensibilidade das ciências humanas. Atualmente, busco equilibrar o rigor técnico com uma visão voltada para o impacto social e a experiência do usuário.
+Atualmente, busco equilibrar o rigor técnico com uma visão voltada para o impacto social e a experiência do usuário.
 
 ---
 
